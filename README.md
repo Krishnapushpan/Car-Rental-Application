@@ -3,10 +3,15 @@ A car rental web application using React, Express.js, and MongoDB, enabling seam
 The website design focuses on simplicity, mobile responsiveness, and clear navigation to offer an efficient, enjoyable rental experience.
 # Prerequisites
 Node.js 
-React 
+
+React
+
 npm 
+
 MongoDB 
+
 Docker installed on your machine
+
 Docker Compose installed on your machine
 # Installation
 Getting Started

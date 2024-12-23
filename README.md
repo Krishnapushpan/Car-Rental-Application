@@ -1,7 +1,9 @@
 # Car-Rental-Application
-A car rental web application using React, Express.js, and MongoDB, enabling seamless management of car bookings, user interactions, and inventory.
+A car rental web application using React, Express.js, and MongoDB, enabling seamless management of car rentings, user interactions, and inventory.
+The website design focuses on simplicity, mobile responsiveness, and clear navigation to offer an efficient, enjoyable rental experience.
 # Prerequisites
 Node.js 
+React 
 npm 
 MongoDB 
 Docker installed on your machine

@@ -40,10 +40,11 @@ docker-compose.yml: Docker Compose configuration file for setting up the applica
 Authenticate:Sign up or log in.
 
 Access Dashboard: Redirected to Admin or user dashboard.
+
 Perform Actions:
 
-Admins can add, update and delete cars,view all users list, messages from users and bookings.
+    Admins can add, update and delete cars,view all users list, messages from users and bookings.
 
-users can see all cars, rent cars and sent messages to the admin.
+    users can see all cars, rent cars and sent messages to the admin.
 # Contact
 Email: krishnapushpan2003@gmail.com
